@@ -1,2 +1,1 @@
-# vyom
-three.js website
+# three.js-vyom
